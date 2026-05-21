@@ -1,0 +1,2 @@
+timestamp,rel_time_s,direction,e2e_latency_ms
+1776265648.2638924,0.0,IO -> PLC,61.46209

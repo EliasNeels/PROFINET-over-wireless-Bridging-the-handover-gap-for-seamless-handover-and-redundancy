@@ -1,0 +1,1886 @@
+{
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P4_Seamless_Handover\\BT_64ms_SeamlessHandover_PullA_PullBoth_PullB_Both_5minInterval_PRP.pcap": {
+        "hash": "18655996_1776435622.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.004,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.210535
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P1_Baseline\\16ms\\BT_16ms_Base_End2End.pcap": {
+        "hash": "21042440_1775738035.0",
+        "metrics": {
+            "Avg Latency (ms)": 5.65779,
+            "Max Latency (ms)": 22.43579,
+            "Min Latency (ms)": 2.33499,
+            "Jitter (ms)": 1.18692,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.147637
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P1_Baseline\\128ms\\BT_128ms_Base_End2End.pcap": {
+        "hash": "2962160_1775738025.0",
+        "metrics": {
+            "Avg Latency (ms)": 5.88427,
+            "Max Latency (ms)": 28.94675,
+            "Min Latency (ms)": 2.49152,
+            "Jitter (ms)": 1.26681,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.021627
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\Wired\\NoPRP\\Wire_64ms_NoPRP_End2End.pcap": {
+        "hash": "5687022_1775749840.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.00013,
+            "Max Latency (ms)": 0.00014,
+            "Min Latency (ms)": 0.00012,
+            "Jitter (ms)": 0.0,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.041657
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P1_Baseline\\128ms\\BT_128ms_Base_PRPClient.pcap": {
+        "hash": "3214034_1775738027.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.023143
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\Wired\\PRP\\Wire_64ms_PRP_End2End.pcap": {
+        "hash": "5705388_1775749841.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.01761,
+            "Max Latency (ms)": 0.01777,
+            "Min Latency (ms)": 0.01744,
+            "Jitter (ms)": 6e-05,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.041829
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_64B_UDP\\64ms\\0,05Mbps\\BT_64ms_Load_5IO_64B_0,05Mbps_PRP.pcap": {
+        "hash": "20486104_1776353569.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 100.0,
+            "PN Throughput (Mbps)": 0.320203
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\Wired\\PRP\\Wire_64ms_PRP_PRP.pcap": {
+        "hash": "6198486_1775749841.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.042885
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\70Mbps_watchdog\\WLAN_16ms_Load_5IO_1400B_70Mbps_PRP.pcap": {
+        "hash": "156762191_1776436292.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.988,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\Wired\\SeriePRP\\CablePulls\\Wire_64ms_SeriePRP_AllLines_PRP1_PullLineB_PRP2_PullLineA_5min5min5min.pcap": {
+        "hash": "5746406_1775749948.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_64B_UDP\\64ms\\0,10Mbps\\BT_64ms_Load_5IO_64B_0,10Mbps_End2End.pcap": {
+        "hash": "24174998_1776353615.0",
+        "metrics": {
+            "Avg Latency (ms)": 11.4134,
+            "Max Latency (ms)": 48.36724,
+            "Min Latency (ms)": 2.9872,
+            "Jitter (ms)": 1.97301,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.376323
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\10Mbps\\WLAN_64ms_Load_5IO_1400B_10Mbps_End2End.pcap": {
+        "hash": "13359806_1776436282.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.6268,
+            "Max Latency (ms)": 2.71585,
+            "Min Latency (ms)": 0.48834,
+            "Jitter (ms)": 0.0783,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206886
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P1_Baseline\\16ms\\BT_16ms_Base_PRPClient.pcap": {
+        "hash": "21028867_1775738034.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.14568
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\Wired\\SeriePRP\\CablePulls\\Wire_64ms_SeriePRP_AllLines_PullatSameTime_PRP1_PullLineB_PRP2_PullLineA_5min5min.pcap": {
+        "hash": "3819340_1775750004.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\Wired\\SeriePRP\\CablePulls\\Wire_64ms_SeriePRP_PRP2_PullLineAandB_5min5min.pcap": {
+        "hash": "3835740_1775749844.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P1_Baseline\\32ms\\BT_32ms_Base_End2End.pcap": {
+        "hash": "11001448_1775738040.0",
+        "metrics": {
+            "Avg Latency (ms)": 5.87628,
+            "Max Latency (ms)": 34.77124,
+            "Min Latency (ms)": 2.92306,
+            "Jitter (ms)": 1.30629,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.075627
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\Wired\\SeriePRP\\NoCablePulls\\Wire_64ms_SeriePRP_Between2pairs.pcap": {
+        "hash": "5850748_1775749838.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\Wired\\SeriePRP\\NoCablePulls\\Wire_64ms_SeriePRP_End2End.pcap": {
+        "hash": "5797848_1775749839.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.01765,
+            "Max Latency (ms)": 0.01854,
+            "Min Latency (ms)": 0.01744,
+            "Jitter (ms)": 8e-05,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.042159
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P1_Baseline\\128ms\\WLAN_128ms_Base_End2End.pcap": {
+        "hash": "2951464_1775738026.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.74682,
+            "Max Latency (ms)": 30.86445,
+            "Min Latency (ms)": 0.51414,
+            "Jitter (ms)": 0.19117,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.021441
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P1_Baseline\\128ms\\WLAN_128ms_Base_PRPClient.pcap": {
+        "hash": "2415336_1775738026.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P1_Baseline\\32ms\\BT_32ms_Base_PRPClient.pcap": {
+        "hash": "11121967_1775738040.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.075663
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\10Mbps\\WLAN_64ms_Load_5IO_1400B_10Mbps_PRP.pcap": {
+        "hash": "161212726_1776436343.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.998,
+            "PN Throughput (Mbps)": 2.983905
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P1_Baseline\\64ms\\BT_64ms_Base_End2End.pcap": {
+        "hash": "5480066_1775738048.0",
+        "metrics": {
+            "Avg Latency (ms)": 6.05336,
+            "Max Latency (ms)": 36.55069,
+            "Min Latency (ms)": 2.89468,
+            "Jitter (ms)": 1.43938,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.039634
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\20Mbps\\WLAN_64ms_Load_5IO_1400B_20Mbps_End2End.pcap": {
+        "hash": "13314746_1776436334.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.71017,
+            "Max Latency (ms)": 6.08543,
+            "Min Latency (ms)": 0.47714,
+            "Jitter (ms)": 0.15765,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206888
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_64B_UDP\\64ms\\0,10Mbps\\BT_64ms_Load_5IO_64B_0,10Mbps_PRP.pcap": {
+        "hash": "28161347_1776353609.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 100.0,
+            "PN Throughput (Mbps)": 0.436125
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P1_Baseline\\64ms\\BT_64ms_Base_PRPClient.pcap": {
+        "hash": "5678664_1775738050.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.040636
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P1_Baseline\\16ms\\WLAN_16ms_Base_End2End.pcap": {
+        "hash": "20071098_1775738049.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.75084,
+            "Max Latency (ms)": 38.46633,
+            "Min Latency (ms)": 0.47116,
+            "Jitter (ms)": 0.21259,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.143939
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_1400B_UDP\\64ms\\0,1Mbps\\BT_64ms_Load_5IO_1400B_0,1Mbps_End2End.pcap": {
+        "hash": "24194144_1776353560.0",
+        "metrics": {
+            "Avg Latency (ms)": 8.86893,
+            "Max Latency (ms)": 49.15796,
+            "Min Latency (ms)": 5.26471,
+            "Jitter (ms)": 2.81571,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.410531
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_64B_UDP\\64ms\\0,15Mbps\\BT_64ms_Load_5IO_64B_0,15Mbps_End2End.pcap": {
+        "hash": "29462934_1776353633.0",
+        "metrics": {
+            "Avg Latency (ms)": 5.58339,
+            "Max Latency (ms)": 36.77266,
+            "Min Latency (ms)": 3.07404,
+            "Jitter (ms)": 1.4688,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.458217
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\20Mbps\\WLAN_64ms_Load_5IO_1400B_20Mbps_PRP.pcap": {
+        "hash": "161143260_1776436391.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.998,
+            "PN Throughput (Mbps)": 2.999242
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_1400B_UDP\\64ms\\0,1Mbps\\BT_64ms_Load_5IO_1400B_0,1Mbps_PRP.pcap": {
+        "hash": "29154801_1776353581.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.998,
+            "PN Throughput (Mbps)": 0.500182
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P1_Baseline\\16ms\\WLAN_16ms_Base_PRPClient.pcap": {
+        "hash": "15132044_1775738048.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\40Mbps\\WLAN_64ms_Load_5IO_1400B_40Mbps_End2End.pcap": {
+        "hash": "13327198_1776436347.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.77622,
+            "Max Latency (ms)": 18.28481,
+            "Min Latency (ms)": 0.52839,
+            "Jitter (ms)": 0.16691,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206904
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_1400B_UDP\\64ms\\0,2Mbps\\BT_64ms_Load_5IO_1400B_0,2Mbps_End2End.pcap": {
+        "hash": "34661253_1776353615.0",
+        "metrics": {
+            "Avg Latency (ms)": 9.36458,
+            "Max Latency (ms)": 50.84926,
+            "Min Latency (ms)": 3.83914,
+            "Jitter (ms)": 3.20636,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.608315
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P1_Baseline\\32ms\\WLAN_32ms_Base_End2End.pcap": {
+        "hash": "10261553_1775738035.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.58511,
+            "Max Latency (ms)": 1.24492,
+            "Min Latency (ms)": 0.48048,
+            "Jitter (ms)": 0.01387,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.07394
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P1_Baseline\\32ms\\WLAN_32ms_Base_PRPClient.pcap": {
+        "hash": "10296468_1775738038.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.072913
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_1400B_UDP\\64ms\\0,2Mbps\\BT_64ms_Load_5IO_1400B_0,2Mbps_PRP.pcap": {
+        "hash": "44226219_1776353633.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.998,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P1_Baseline\\64ms\\WLAN_64ms_Base_End2End.pcap": {
+        "hash": "5382134_1775738041.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.59029,
+            "Max Latency (ms)": 1.45412,
+            "Min Latency (ms)": 0.50606,
+            "Jitter (ms)": 0.01663,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.038942
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\40Mbps\\WLAN_64ms_Load_5IO_1400B_40Mbps_PRP.pcap": {
+        "hash": "158457474_1776436405.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\5Mbps\\WLAN_64ms_Load_5IO_1400B_5Mbps_End2End.pcap": {
+        "hash": "13370242_1776436298.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.61861,
+            "Max Latency (ms)": 3.01054,
+            "Min Latency (ms)": 0.48626,
+            "Jitter (ms)": 0.05285,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206928
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\10Mbps\\WLAN_16ms_Load_5IO_1400B_10Mbps_End2End.pcap": {
+        "hash": "23861230_1776436072.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.69039,
+            "Max Latency (ms)": 5.42591,
+            "Min Latency (ms)": 0.48507,
+            "Jitter (ms)": 0.07967,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.739332
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_64B_UDP\\64ms\\0,15Mbps\\BT_64ms_Load_5IO_64B_0,15Mbps_PRP.pcap": {
+        "hash": "35566647_1776353635.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 100.0,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_1400B_UDP\\64ms\\0,3Mbps\\BT_64ms_Load_5IO_1400B_0,3Mbps_End2End.pcap": {
+        "hash": "44476857_1776353656.0",
+        "metrics": {
+            "Avg Latency (ms)": 11.88383,
+            "Max Latency (ms)": 167.72941,
+            "Min Latency (ms)": 4.4466,
+            "Jitter (ms)": 3.70098,
+            "Packet Loss (%)": 0.197,
+            "UDP Packet Loss (%)": 99.998,
+            "PN Throughput (Mbps)": 0.790864
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_1400B_UDP\\64ms\\0,3Mbps\\BT_64ms_Load_5IO_1400B_0,3Mbps_PRP.pcap": {
+        "hash": "56832807_1776353661.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 2.728,
+            "UDP Packet Loss (%)": 99.941,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\5Mbps\\WLAN_64ms_Load_5IO_1400B_5Mbps_PRP.pcap": {
+        "hash": "161417123_1776436356.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.998,
+            "PN Throughput (Mbps)": 2.941475
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\60Mbps\\WLAN_64ms_Load_5IO_1400B_60Mbps_End2End.pcap": {
+        "hash": "13307270_1776436362.0",
+        "metrics": {
+            "Avg Latency (ms)": 1.91979,
+            "Max Latency (ms)": 10.71206,
+            "Min Latency (ms)": 0.5783,
+            "Jitter (ms)": 0.52465,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206909
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_64B_UDP\\64ms\\0,05Mbps\\BT_64ms_Load_5IO_64B_0,05Mbps_End2End.pcap": {
+        "hash": "18865879_1776353572.0",
+        "metrics": {
+            "Avg Latency (ms)": 10.78614,
+            "Max Latency (ms)": 35.51591,
+            "Min Latency (ms)": 3.06396,
+            "Jitter (ms)": 2.55716,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.294495
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\10Mbps\\WLAN_16ms_Load_5IO_1400B_10Mbps_PRP.pcap": {
+        "hash": "171908902_1776436125.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.86,
+            "PN Throughput (Mbps)": 6.221332
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\20Mbps\\WLAN_16ms_Load_5IO_1400B_20Mbps_End2End.pcap": {
+        "hash": "23826460_1776436145.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.75927,
+            "Max Latency (ms)": 4.6639,
+            "Min Latency (ms)": 0.46092,
+            "Jitter (ms)": 0.14915,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.73946
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\60Mbps\\WLAN_64ms_Load_5IO_1400B_60Mbps_PRP.pcap": {
+        "hash": "158186634_1776436420.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\65Mbps_SwitchError\\WLAN_64ms_Load_5IO_1400B_65Mbps_End2End.pcap": {
+        "hash": "11708357_1776436466.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.22343,
+            "Max Latency (ms)": 9.00915,
+            "Min Latency (ms)": 0.53182,
+            "Jitter (ms)": 1.02976,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.182603
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\20Mbps\\WLAN_16ms_Load_5IO_1400B_20Mbps_PRP.pcap": {
+        "hash": "172066310_1776436207.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.99,
+            "PN Throughput (Mbps)": 6.18669
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\65Mbps_SwitchError\\WLAN_64ms_Load_5IO_1400B_65Mbps_PRP.pcap": {
+        "hash": "156682307_1776436519.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.988,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\67Mbps_Watchdog\\WLAN_64ms_Load_5IO_1400B_67Mbps_End2End.pcap": {
+        "hash": "8402215_1776436409.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.36115,
+            "Max Latency (ms)": 64.5936,
+            "Min Latency (ms)": 0.58168,
+            "Jitter (ms)": 1.46956,
+            "Packet Loss (%)": 3.42,
+            "UDP Packet Loss (%)": 99.986,
+            "PN Throughput (Mbps)": 0.134055
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\30Mbps\\WLAN_16ms_Load_5IO_1400B_30Mbps_End2End.pcap": {
+        "hash": "23842864_1776436081.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.90556,
+            "Max Latency (ms)": 30.91327,
+            "Min Latency (ms)": 0.50565,
+            "Jitter (ms)": 0.22318,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.739348
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\64ms\\67Mbps_Watchdog\\WLAN_64ms_Load_5IO_1400B_67Mbps_PRP.pcap": {
+        "hash": "154081282_1776436459.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 2.373,
+            "UDP Packet Loss (%)": 99.948,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_NoUDP\\16ms_SwitchError\\BT_16ms_Load_5IO_PRP.pcap": {
+        "hash": "21219253_1776435696.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.64508
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\16ms\\10Mbps\\WLAN_16ms_Load_5IO_64B_10Mbps_End2End.pcap": {
+        "hash": "19009511_1776436529.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.03743,
+            "Max Latency (ms)": 10.8732,
+            "Min Latency (ms)": 0.53183,
+            "Jitter (ms)": 1.97318,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.590393
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_NoUDP\\32ms\\BT_32ms_Load_5IO_End2End.pcap": {
+        "hash": "27148136_1775834967.0",
+        "metrics": {
+            "Avg Latency (ms)": 11.30511,
+            "Max Latency (ms)": 40.39312,
+            "Min Latency (ms)": 3.02958,
+            "Jitter (ms)": 1.89168,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.394719
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\30Mbps\\WLAN_16ms_Load_5IO_1400B_30Mbps_PRP.pcap": {
+        "hash": "167507190_1776436130.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.877,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\40Mbps\\WLAN_16ms_Load_5IO_1400B_40Mbps_End2End.pcap": {
+        "hash": "23823346_1776436096.0",
+        "metrics": {
+            "Avg Latency (ms)": 1.06036,
+            "Max Latency (ms)": 19.38696,
+            "Min Latency (ms)": 0.50548,
+            "Jitter (ms)": 0.27822,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.739437
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_NoUDP\\32ms\\BT_32ms_Load_5IO_PRP.pcap": {
+        "hash": "28215914_1775834977.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.379905
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_NoUDP\\64ms\\BT_64ms_Load_5IO_End2End.pcap": {
+        "hash": "29101196_1775834978.0",
+        "metrics": {
+            "Avg Latency (ms)": 10.89066,
+            "Max Latency (ms)": 49.16039,
+            "Min Latency (ms)": 3.07556,
+            "Jitter (ms)": 2.24983,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.212179
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\40Mbps\\WLAN_16ms_Load_5IO_1400B_40Mbps_PRP.pcap": {
+        "hash": "167191440_1776436157.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.995,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\50Mbps\\WLAN_16ms_Load_5IO_1400B_50Mbps_End2End.pcap": {
+        "hash": "24570154_1776436197.0",
+        "metrics": {
+            "Avg Latency (ms)": 1.70612,
+            "Max Latency (ms)": 36.37359,
+            "Min Latency (ms)": 0.51074,
+            "Jitter (ms)": 0.56814,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.739424
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_NoUDP\\64ms\\BT_64ms_Load_5IO_PRP.pcap": {
+        "hash": "27923342_1775834980.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.202387
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\16ms\\10Mbps\\WLAN_16ms_Load_5IO_64B_10Mbps_PRP.pcap": {
+        "hash": "46920820_1776436539.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_-40_LineB_-75\\BT_64ms_Attenuation_5IO_NoUDP_LineA_-40_LineB_-75_End2End.pcap": {
+        "hash": "13989666_1776435622.0",
+        "metrics": {
+            "Avg Latency (ms)": 10.19497,
+            "Max Latency (ms)": 35.0506,
+            "Min Latency (ms)": 2.92275,
+            "Jitter (ms)": 1.91365,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.216629
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\16ms\\2,5Mbps\\VLAN_16ms_Load_5IO_64B_2,5Mbps_End2End_00001.pcap": {
+        "hash": "16268094_1776436447.0",
+        "metrics": {
+            "Avg Latency (ms)": 2.80839,
+            "Max Latency (ms)": 8.09537,
+            "Min Latency (ms)": 0.52792,
+            "Jitter (ms)": 0.98177,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.633565
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_-40_LineB_-75\\BT_64ms_Attenuation_5IO_NoUDP_LineA_-40_LineB_-75_PRP.pcap": {
+        "hash": "13320331_1776435627.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.206854
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\50Mbps\\WLAN_16ms_Load_5IO_1400B_50Mbps_PRP.pcap": {
+        "hash": "167014588_1776436260.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.995,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\16ms\\2,5Mbps\\WLAN_16ms_Load_5IO_64B_2,5Mbps_End2End.pcap": {
+        "hash": "23901804_1776436439.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.81967,
+            "Max Latency (ms)": 37.17533,
+            "Min Latency (ms)": 0.49345,
+            "Jitter (ms)": 0.1737,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.739439
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_-65_LineB_-65\\BT_64ms_Attenuation_5IO_NoUDP_LineA_-65_LineB_-65_End2End.pcap": {
+        "hash": "16445373_1776435628.0",
+        "metrics": {
+            "Avg Latency (ms)": 10.3059,
+            "Max Latency (ms)": 34.77187,
+            "Min Latency (ms)": 3.06982,
+            "Jitter (ms)": 1.94679,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.213224
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\55Mbps_swtichError\\WLAN_16ms_Load_5IO_1400B_55Mbps_End2End.pcap": {
+        "hash": "23943255_1776436167.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.743,
+            "Max Latency (ms)": 19.38293,
+            "Min Latency (ms)": 0.52003,
+            "Jitter (ms)": 2.34726,
+            "Packet Loss (%)": 8.8,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.739376
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_-65_LineB_-65\\BT_64ms_Attenuation_5IO_NoUDP_LineA_-65_LineB_-65_PRP.pcap": {
+        "hash": "15736992_1776435631.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.203545
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_-75_LineB_-40\\BT_64ms_Attenuation_5IO_NoUDP_LineA_-75_LineB_-40_End2End.pcap": {
+        "hash": "13697715_1776435641.0",
+        "metrics": {
+            "Avg Latency (ms)": 10.79332,
+            "Max Latency (ms)": 54.15166,
+            "Min Latency (ms)": 2.91716,
+            "Jitter (ms)": 2.75724,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.213208
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_-75_LineB_-40\\BT_64ms_Attenuation_5IO_NoUDP_LineA_-75_LineB_-40_PRP.pcap": {
+        "hash": "13129174_1776435641.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.203641
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_-75_LineB_-75\\BT_64ms_Attenuation_5IO_NoUDP_LineA_-75_LineB_-75_End2End.pcap": {
+        "hash": "13987393_1776435637.0",
+        "metrics": {
+            "Avg Latency (ms)": 10.41903,
+            "Max Latency (ms)": 36.92292,
+            "Min Latency (ms)": 3.29341,
+            "Jitter (ms)": 2.19476,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.216666
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\55Mbps_swtichError\\WLAN_16ms_Load_5IO_1400B_55Mbps_PRP.pcap": {
+        "hash": "166702118_1776436229.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.996,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_-75_LineB_-75\\BT_64ms_Attenuation_5IO_NoUDP_LineA_-75_LineB_-75_PRP.pcap": {
+        "hash": "13356719_1776435639.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.20675
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\5Mbps\\WLAN_16ms_Load_5IO_1400B_5Mbps_End2End.pcap": {
+        "hash": "23947030_1776436135.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.64048,
+            "Max Latency (ms)": 3.43058,
+            "Min Latency (ms)": 0.48361,
+            "Jitter (ms)": 0.06114,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.739434
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_OFF-LineB_-92\\BT_64ms_Attenuation_5IO_NoUDP_LineA_OFF_LineB_-92_End2End.pcap": {
+        "hash": "14112515_1776435633.0",
+        "metrics": {
+            "Avg Latency (ms)": 13.78915,
+            "Max Latency (ms)": 64.13011,
+            "Min Latency (ms)": 3.30084,
+            "Jitter (ms)": 4.58655,
+            "Packet Loss (%)": 0.101,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.216233
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_OFF-LineB_-92\\BT_64ms_Attenuation_5IO_NoUDP_LineA_OFF_LineB_-92_PRP.pcap": {
+        "hash": "6935630_1776435631.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_OFF_LineB_-85\\BT_64ms_Attenuation_5IO_NoUDP_LineA_OFF_LineB_-85_End2End.pcap": {
+        "hash": "14063465_1776435636.0",
+        "metrics": {
+            "Avg Latency (ms)": 11.56209,
+            "Max Latency (ms)": 51.48638,
+            "Min Latency (ms)": 3.68139,
+            "Jitter (ms)": 2.67672,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.216242
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P3_Attenuation\\64ms\\LineA_OFF_LineB_-85\\BT_64ms_Attenuation_5IO_NoUDP_LineA_OFF_LineB_-85_PRP.pcap": {
+        "hash": "6821396_1776435634.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\16ms\\2,5Mbps\\WLAN_16ms_Load_5IO_64B_2,5Mbps_PRP.pcap": {
+        "hash": "57693725_1776436467.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 100.0,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\5Mbps\\WLAN_16ms_Load_5IO_1400B_5Mbps_PRP.pcap": {
+        "hash": "157158131_1776436187.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.991,
+            "PN Throughput (Mbps)": 5.630277
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P4_Seamless_Handover\\BT_64ms_SeamlessHandover_PullA_PullBoth_PullB_Both_5minInterval_End2End.pcap": {
+        "hash": "30533714_1776435625.0",
+        "metrics": {
+            "Avg Latency (ms)": 12.06433,
+            "Max Latency (ms)": 44.07835,
+            "Min Latency (ms)": 3.11465,
+            "Jitter (ms)": 3.18942,
+            "Packet Loss (%)": 0.069,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.167221
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\16ms\\20Mbps\\WLAN_16ms_Load_5IO_64B_20Mbps_End2End.pcap": {
+        "hash": "18688634_1776436498.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.671,
+            "Max Latency (ms)": 17.68936,
+            "Min Latency (ms)": 0.13529,
+            "Jitter (ms)": 2.55833,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.579647
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\60Mbps\\WLAN_16ms_Load_5IO_1400B_60Mbps_End2End.pcap": {
+        "hash": "21651584_1776436269.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.31805,
+            "Max Latency (ms)": 10.44798,
+            "Min Latency (ms)": 0.5232,
+            "Jitter (ms)": 2.45145,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.672023
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\60Mbps\\WLAN_16ms_Load_5IO_1400B_60Mbps_PRP.pcap": {
+        "hash": "164437881_1776436327.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.958,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\65Mbps\\WLAN_16ms_Load_5IO_1400B_65Mbps_End2End.pcap": {
+        "hash": "19675660_1776436216.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.1537,
+            "Max Latency (ms)": 8.9241,
+            "Min Latency (ms)": 0.53013,
+            "Jitter (ms)": 2.39081,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.610152
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\16ms\\20Mbps\\WLAN_16ms_Load_5IO_64B_20Mbps_PRP.pcap": {
+        "hash": "42786691_1776436513.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.981,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\65Mbps\\WLAN_16ms_Load_5IO_1400B_65Mbps_PRP.pcap": {
+        "hash": "162343420_1776436276.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.978,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\16ms\\30Mbps_Watchdog\\WLAN_16ms_Load_5IO_64B_30Mbps_End2End.pcap": {
+        "hash": "13890417_1776436509.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.70663,
+            "Max Latency (ms)": 18.32213,
+            "Min Latency (ms)": 0.17832,
+            "Jitter (ms)": 2.34307,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.42667
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_1400B_UDP\\16ms\\70Mbps_watchdog\\WLAN_16ms_Load_5IO_1400B_70Mbps_End2End.pcap": {
+        "hash": "12691363_1776436235.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.68185,
+            "Max Latency (ms)": 17.82352,
+            "Min Latency (ms)": 0.21393,
+            "Jitter (ms)": 2.04839,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.393752
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\16ms\\30Mbps_Watchdog\\WLAN_16ms_Load_5IO_64B_30Mbps_PRP.pcap": {
+        "hash": "39589214_1776436524.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\16ms\\5Mbps_switchError\\WLAN_16ms_Load_5IO_64B_5Mbps_End2End.pcap": {
+        "hash": "20460755_1776436520.0",
+        "metrics": {
+            "Avg Latency (ms)": 2.79217,
+            "Max Latency (ms)": 8.09537,
+            "Min Latency (ms)": 0.52792,
+            "Jitter (ms)": 0.97797,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.634782
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\16ms\\5Mbps_switchError\\WLAN_16ms_Load_5IO_64B_5Mbps_PRP.pcap": {
+        "hash": "51215432_1776436537.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.997,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\64ms\\10Mbps_Watchdog\\WLAN_64ms_Load_5IO_64B_10Mbps_End2End.pcap": {
+        "hash": "9140415_1776436395.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.08991,
+            "Max Latency (ms)": 96.57882,
+            "Min Latency (ms)": 0.53158,
+            "Jitter (ms)": 2.00383,
+            "Packet Loss (%)": 1.784,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.143147
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\64ms\\10Mbps_Watchdog\\WLAN_64ms_Load_5IO_64B_10Mbps_PRP.pcap": {
+        "hash": "77640907_1776436425.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 1.607,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\64ms\\2,5Mbps\\WLAN_64ms_Load_5IO_64B_2,5Mbps_End2End.pcap": {
+        "hash": "13313874_1776436461.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.7435,
+            "Max Latency (ms)": 21.7323,
+            "Min Latency (ms)": 0.48868,
+            "Jitter (ms)": 0.16929,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206902
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\64ms\\2,5Mbps\\WLAN_64ms_Load_5IO_64B_2,5Mbps_PRP.pcap": {
+        "hash": "91885716_1776436491.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 100.0,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\64ms\\5Mbps_SwitchError\\WLAN_64ms_Load_5IO_64B_5Mbps_End2End.pcap": {
+        "hash": "11279471_1776436424.0",
+        "metrics": {
+            "Avg Latency (ms)": 2.86714,
+            "Max Latency (ms)": 14.33944,
+            "Min Latency (ms)": 0.53551,
+            "Jitter (ms)": 1.69002,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.175161
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\64ms\\5Mbps_SwitchError\\WLAN_64ms_Load_5IO_64B_5Mbps_PRP.pcap": {
+        "hash": "85479265_1776436455.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\64ms\\7,5Mbps_Watchdog\\WLAN_64ms_Load_5IO_64B_7,5Mbps_End2End.pcap": {
+        "hash": "6390001_1776436473.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.37075,
+            "Max Latency (ms)": 177.35152,
+            "Min Latency (ms)": 0.54495,
+            "Jitter (ms)": 2.5371,
+            "Packet Loss (%)": 7.736,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.102296
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_64B_UDP\\64ms\\7,5Mbps_Watchdog\\WLAN_64ms_Load_5IO_64B_7,5Mbps_PRP.pcap": {
+        "hash": "79651262_1776436504.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 3.026,
+            "UDP Packet Loss (%)": 99.997,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_NoUDP\\16ms\\WLAN_16ms_Load_5IO_End2End.pcap": {
+        "hash": "25797118_1776436060.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.63126,
+            "Max Latency (ms)": 2.51059,
+            "Min Latency (ms)": 0.49041,
+            "Jitter (ms)": 0.02097,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.739375
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_NoUDP\\16ms\\WLAN_16ms_Load_5IO_PRP.pcap": {
+        "hash": "24831904_1776436068.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.713993
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_NoUDP\\32ms\\WLAN_32ms_Load_5IO_PRP.pcap": {
+        "hash": "25503256_1776436055.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.368987
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_NoUDP\\32ms\\WLAN_64ms_Load_5IO_End2End.pcap": {
+        "hash": "26515292_1776436054.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.59032,
+            "Max Latency (ms)": 2.88078,
+            "Min Latency (ms)": 0.48143,
+            "Jitter (ms)": 0.02011,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.384385
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_NoUDP\\64ms\\WLAN_64ms_Load_5IO_End2End.pcap": {
+        "hash": "28581018_1776436045.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.5857,
+            "Max Latency (ms)": 2.69197,
+            "Min Latency (ms)": 0.47958,
+            "Jitter (ms)": 0.02064,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206888
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\5IO_NoUDP\\64ms\\WLAN_64ms_Load_5IO_PRP.pcap": {
+        "hash": "27581488_1776436044.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.196503
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\16ms\\55Mbps_SwitchError\\WLAN_64ms_Load_5IO_1400B_55Mbps_End2End.pcap": {
+        "hash": "23807194_1776436736.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.18402,
+            "Max Latency (ms)": 27.83866,
+            "Min Latency (ms)": 0.53126,
+            "Jitter (ms)": 2.38616,
+            "Packet Loss (%)": 34.521,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.738714
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\16ms\\55Mbps_SwitchError\\WLAN_64ms_Load_5IO_1400B_55Mbps_PRP.pcap": {
+        "hash": "165792807_1776436761.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\16ms\\70Mbps_Watchdog\\WLAN_64ms_Load_5IO_1400B_70Mbps_End2End.pcap": {
+        "hash": "18114437_1776436654.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.17793,
+            "Max Latency (ms)": 14.97188,
+            "Min Latency (ms)": 0.52925,
+            "Jitter (ms)": 2.34184,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.562467
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\16ms\\70Mbps_Watchdog\\WLAN_64ms_Load_5IO_1400B_70Mbps_PRP.pcap": {
+        "hash": "160711080_1776436707.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\10Mbps\\WLAN_64ms_Load_5IO_1400B_10Mbps_End2End.pcap": {
+        "hash": "13310901_1776436554.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.64382,
+            "Max Latency (ms)": 2.69775,
+            "Min Latency (ms)": 0.48733,
+            "Jitter (ms)": 0.08812,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206923
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\10Mbps\\WLAN_64ms_Load_5IO_1400B_10Mbps_PRP.pcap": {
+        "hash": "161095346_1776436591.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.998,
+            "PN Throughput (Mbps)": 3.009989
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\20Mbps\\WLAN_64ms_Load_5IO_1400B_20Mbps_End2End.pcap": {
+        "hash": "9417238_1776436534.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.70948,
+            "Max Latency (ms)": 3.67919,
+            "Min Latency (ms)": 0.47328,
+            "Jitter (ms)": 0.15335,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206902
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\20Mbps\\WLAN_64ms_Load_5IO_1400B_20Mbps_PRP.pcap": {
+        "hash": "157925640_1776436583.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.998,
+            "PN Throughput (Mbps)": 3.956826
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\40Mbps\\WLAN_64ms_Load_5IO_1400B_40Mbps_End2End.pcap": {
+        "hash": "13371486_1776436560.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.94035,
+            "Max Latency (ms)": 14.87308,
+            "Min Latency (ms)": 0.52754,
+            "Jitter (ms)": 0.27889,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206894
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\40Mbps\\WLAN_64ms_Load_5IO_1400B_40Mbps_PRP.pcap": {
+        "hash": "158424989_1776436615.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\5Mbps\\WLAN_64ms_Load_5IO_1400B_5Mbps_End2End.pcap": {
+        "hash": "13753751_1776436591.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.60191,
+            "Max Latency (ms)": 2.87387,
+            "Min Latency (ms)": 0.46891,
+            "Jitter (ms)": 0.04849,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.20691
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\5Mbps\\WLAN_64ms_Load_5IO_1400B_5Mbps_PRP.pcap": {
+        "hash": "161524086_1776436647.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.998,
+            "PN Throughput (Mbps)": 2.917786
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\60Mbps\\WLAN_64ms_Load_5IO_1400B_60Mbps_End2End.pcap": {
+        "hash": "13316648_1776436622.0",
+        "metrics": {
+            "Avg Latency (ms)": 1.68818,
+            "Max Latency (ms)": 13.05367,
+            "Min Latency (ms)": 0.53654,
+            "Jitter (ms)": 0.61125,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206906
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\60Mbps\\WLAN_64ms_Load_5IO_1400B_60Mbps_PRP.pcap": {
+        "hash": "158107921_1776436674.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\65Mbps_SwitchError\\WLAN_64ms_Load_5IO_1400B_65Mbps_End2End.pcap": {
+        "hash": "11818862_1776436600.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.19699,
+            "Max Latency (ms)": 15.97149,
+            "Min Latency (ms)": 0.53127,
+            "Jitter (ms)": 1.35631,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.184325
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\65Mbps_SwitchError\\WLAN_64ms_Load_5IO_1400B_65Mbps_PRP.pcap": {
+        "hash": "156784327_1776436656.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.981,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\67Mpbs_Watchdog\\WLAN_64ms_Load_5IO_1400B_67Mbps_End2End.pcap": {
+        "hash": "9310674_1776436710.0",
+        "metrics": {
+            "Avg Latency (ms)": 3.34287,
+            "Max Latency (ms)": 88.16407,
+            "Min Latency (ms)": 0.557,
+            "Jitter (ms)": 1.58035,
+            "Packet Loss (%)": 6.543,
+            "UDP Packet Loss (%)": 99.987,
+            "PN Throughput (Mbps)": 0.171246
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_1400B_UDP\\64ms\\67Mpbs_Watchdog\\WLAN_64ms_Load_5IO_1400B_67Mbps_PRP.pcap": {
+        "hash": "154745510_1776436761.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 4.681,
+            "UDP Packet Loss (%)": 99.969,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_64B_UDP\\16ms\\30Mbps_Watchdog\\WLAN_16ms_Load_5IO_64B_30Mbps_End2End.pcap": {
+        "hash": "14952227_1776436666.0",
+        "metrics": {
+            "Avg Latency (ms)": 6.45304,
+            "Max Latency (ms)": 20.50641,
+            "Min Latency (ms)": 0.1012,
+            "Jitter (ms)": 3.41092,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.464152
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_64B_UDP\\16ms\\30Mbps_Watchdog\\WLAN_16ms_Load_5IO_64B_30Mbps_PRP.pcap": {
+        "hash": "36858591_1776436679.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.999,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_64B_UDP\\16ms\\5Mbps_SwitchError\\WLAN_16ms_Load_5IO_64B_5Mbps_End2End.pcap": {
+        "hash": "20589537_1776436692.0",
+        "metrics": {
+            "Avg Latency (ms)": 2.8029,
+            "Max Latency (ms)": 8.7751,
+            "Min Latency (ms)": 0.52566,
+            "Jitter (ms)": 0.72034,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.638012
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_64B_UDP\\16ms\\5Mbps_SwitchError\\WLAN_16ms_Load_5IO_64B_5Mbps_PRP.pcap": {
+        "hash": "49703024_1776436712.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": 99.997,
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_64B_UDP\\64ms\\2.5 Mbps\\WLAN_64ms_Load_5IO_64B_2,5Mbps_End2End.pcap": {
+        "hash": "13328656_1776436681.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.7733,
+            "Max Latency (ms)": 9.06237,
+            "Min Latency (ms)": 0.48513,
+            "Jitter (ms)": 0.16435,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206924
+        }
+    },
+    "Wired\\SeriePRP\\CablePulls\\Wire_64ms_SeriePRP_PRP2_PullLineAandB_5min5min.pcap": {
+        "hash": "3835740_1775749844.0",
+        "metrics": {
+            "Avg Latency (ms)": "",
+            "Max Latency (ms)": "",
+            "Min Latency (ms)": "",
+            "Jitter (ms)": "",
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.0
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\Wired\\SeriePRP\\CablePulls\\Wire_64ms_SeriePRP_PRP2_PullLineAandB_5min5min_End2End.pcap": {
+        "hash": "3835740_1778774218.1100447",
+        "metrics": {
+            "Avg Latency (ms)": 0.03466,
+            "Max Latency (ms)": 0.03499,
+            "Min Latency (ms)": 0.03429,
+            "Jitter (ms)": 0.00011,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.042205
+        }
+    },
+    "WLAN\\P2_Load\\QoS\\5IO_NoUDP\\64ms\\WLAN_64ms_Load_5IO_NoUDP_End2End.pcap": {
+        "hash": "16529684_1776436064.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.581,
+            "Max Latency (ms)": 2.6359,
+            "Min Latency (ms)": 0.48805,
+            "Jitter (ms)": 0.01544,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206949
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_NoUDP\\64ms\\WLAN_64ms_Load_5IO_NoUDP_End2End.pcap": {
+        "hash": "16529684_1776436064.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.581,
+            "Max Latency (ms)": 2.6359,
+            "Min Latency (ms)": 0.48805,
+            "Jitter (ms)": 0.01544,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206949
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_64B_UDP\\64ms\\5Mbps_SwitchError\\WLAN_64ms_Load_5IO_64B_5Mbps_End2End.pcap": {
+        "hash": "11171106_1776436769.0",
+        "metrics": {
+            "Avg Latency (ms)": 2.95918,
+            "Max Latency (ms)": 6.19801,
+            "Min Latency (ms)": 0.53528,
+            "Jitter (ms)": 1.20676,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.174477
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P3_Attenuation\\5IO_64ms\\LineA_-40_LineB_-75\\WLAN_64ms_Attenuation_5IO_NoUDP_LineA_-40_54Mbitss_LineB_-75_48Mbitss_End2End.pcap": {
+        "hash": "15715522_1776436028.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.59809,
+            "Max Latency (ms)": 3.10272,
+            "Min Latency (ms)": 0.49251,
+            "Jitter (ms)": 0.02432,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.25096
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P3_Attenuation\\5IO_64ms\\LineA_-65_LineB_-65\\WLAN_64ms_Attenuation_5IO_NoUDP_LineA_-65_54Mbitss_LineB_-65_54Mbitss_End2End.pcap": {
+        "hash": "14097671_1776436025.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.58491,
+            "Max Latency (ms)": 2.54398,
+            "Min Latency (ms)": 0.49359,
+            "Jitter (ms)": 0.02137,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.220753
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P3_Attenuation\\5IO_64ms\\LineA_-75_LineB_-40\\WLAN_64ms_Attenuation_5IO_NoUDP_LineA_-75_36Mbitss_LineB_-40_54Mbitss_End2End.pcap": {
+        "hash": "13336100_1776436016.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.58391,
+            "Max Latency (ms)": 2.76384,
+            "Min Latency (ms)": 0.50538,
+            "Jitter (ms)": 0.01976,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.206794
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P3_Attenuation\\5IO_64ms\\LineA_-75_LineB_-75\\WLAN_64ms_Attenuation_5IO_NoUDP_LineA_-75_54Mbitss_LineB_-75_54Mbitss_End2End.pcap": {
+        "hash": "15731437_1776436035.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.58596,
+            "Max Latency (ms)": 2.36053,
+            "Min Latency (ms)": 0.49716,
+            "Jitter (ms)": 0.02028,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.250952
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P3_Attenuation\\5IO_64ms\\LineA_OFF-LineB_-90\\WLAN_64ms_Attenuation_5IO_NoUDP_LineA_OFF_0Mbitss_LineB_-90_12-18Mbitss_End2End.pcap": {
+        "hash": "16216178_1776436026.0",
+        "metrics": {
+            "Avg Latency (ms)": 1.50368,
+            "Max Latency (ms)": 68.15775,
+            "Min Latency (ms)": 0.58538,
+            "Jitter (ms)": 1.70466,
+            "Packet Loss (%)": 0.029,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.25056
+        }
+    },
+    "WLAN\\P3_Attenuation\\5IO_64ms\\LineA_-40_LineB_-75\\WLAN_64ms_Attenuation_5IO_NoUDP_LineA_-40_54Mbitss_LineB_-75_48Mbitss_End2End.pcap": {
+        "hash": "15715522_1776436028.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.59809,
+            "Max Latency (ms)": 3.10272,
+            "Min Latency (ms)": 0.49251,
+            "Jitter (ms)": 0.02432,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.25096
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P3_Attenuation\\5IO_64ms\\LineA_OFF_LineB_-85\\WLAN_64ms_Attenuation_5IO_NoUDP_LineA_OFF_54Mbitss_LineB_-85_24Mbitss_End2End.pcap": {
+        "hash": "17551207_1776436032.0",
+        "metrics": {
+            "Avg Latency (ms)": 1.43414,
+            "Max Latency (ms)": 71.61849,
+            "Min Latency (ms)": 0.51636,
+            "Jitter (ms)": 1.6373,
+            "Packet Loss (%)": 0.007,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.250739
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P3_Attenuation\\5IO_64ms\\LineA_OFF_LineB_-93_Wachtdog\\WLAN_64ms_Attenuation_5IO_NoUDP_LineA_OFF_0Mbitss_LineB_-93_6Mbitss_End2End.pcap": {
+        "hash": "2626834_1776436029.0",
+        "metrics": {
+            "Avg Latency (ms)": 2.51208,
+            "Max Latency (ms)": 74.01138,
+            "Min Latency (ms)": 0.59599,
+            "Jitter (ms)": 2.83116,
+            "Packet Loss (%)": 2.423,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.148751
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\1AP_2CL\\Baseline\\BT1AP2CL_Baseline_PCAP_Hilscher_64ms_00001_20260320115621_End2End.pcap": {
+        "hash": "775956_1779025379.7732668",
+        "metrics": {
+            "Avg Latency (ms)": 7.80803,
+            "Max Latency (ms)": 91.32471,
+            "Min Latency (ms)": 3.46358,
+            "Jitter (ms)": 3.54754,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.042496
+        }
+    },
+    "c:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\4IO_16ms_16IO_64ms\\BT_16ms_Load_4IO_End2End.pcap": {
+        "hash": "40288734_1778671407.0",
+        "metrics": {
+            "Avg Latency (ms)": 30.06955,
+            "Max Latency (ms)": 46.73238,
+            "Min Latency (ms)": 3.32168,
+            "Jitter (ms)": 8.06494,
+            "Packet Loss (%)": 54.902,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.622506
+        }
+    },
+    "c:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\4IO_16ms_16IO_64ms\\WLAN_16ms_Load_4IO_End2End.pcap": {
+        "hash": "38715657_1778673319.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.60453,
+            "Max Latency (ms)": 3.00614,
+            "Min Latency (ms)": 0.48749,
+            "Jitter (ms)": 0.01835,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.599285
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\4IO_16ms_16IO_64ms\\BT_16ms_Load_4IO_End2End.pcap": {
+        "hash": "40288734_1778671407.0",
+        "metrics": {
+            "Avg Latency (ms)": 30.33682,
+            "Max Latency (ms)": 64.22553,
+            "Min Latency (ms)": 3.32168,
+            "Jitter (ms)": 8.48934,
+            "Packet Loss (%)": 54.902,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.622506
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\BT\\P2_Load\\5IO_NoUDP\\16ms_SwitchError\\BT_16ms_Load_5IO_End2End.pcap": {
+        "hash": "22789351_1776435696.0",
+        "metrics": {
+            "Avg Latency (ms)": 31.0103,
+            "Max Latency (ms)": 47.71131,
+            "Min Latency (ms)": 1.83889,
+            "Jitter (ms)": 8.65415,
+            "Packet Loss (%)": 63.802,
+            "UDP Packet Loss (%)": 0.0,
+            "PN Throughput (Mbps)": 0.718391
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\QoS\\5IO_NoUDP\\16ms\\WLAN_64ms_Load_5IO_NoUDP_End2End.pcap": {
+        "hash": "23964318_1776436045.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.61616,
+            "Max Latency (ms)": 3.36846,
+            "Min Latency (ms)": 0.49026,
+            "Jitter (ms)": 0.02572,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.73942
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P2_Load\\NoQoS\\4IO_16ms_16IO_64ms\\WLAN_16ms_Load_4IO_End2End.pcap": {
+        "hash": "38715657_1778673319.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.60453,
+            "Max Latency (ms)": 3.00614,
+            "Min Latency (ms)": 0.48749,
+            "Jitter (ms)": 0.01835,
+            "Packet Loss (%)": 0.0,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.599285
+        }
+    },
+    "C:\\Users\\elti5\\OneDrive - KU Leuven\\MasterThesis\\WLAN\\P4_seamless_handover\\WLAN_64ms_SeamlessHandover_PullA_PullBoth_PullB_Both_4minInterval_End2End.pcap": {
+        "hash": "31790032_1776436017.0",
+        "metrics": {
+            "Avg Latency (ms)": 0.59507,
+            "Max Latency (ms)": 14.79141,
+            "Min Latency (ms)": 0.49373,
+            "Jitter (ms)": 0.03498,
+            "Packet Loss (%)": 0.066,
+            "UDP Packet Loss (%)": "",
+            "PN Throughput (Mbps)": 0.173652
+        }
+    }
+}
