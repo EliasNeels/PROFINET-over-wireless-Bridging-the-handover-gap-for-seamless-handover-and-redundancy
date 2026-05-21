@@ -39,8 +39,3 @@ Within each connection type (e.g., `WLAN`, `BT`), the data is further organized 
 ### 📁 Documentation
 - **`Thesis_Measurements_Overview.xlsx`**: An Excel spreadsheet providing a high-level overview and summary of all the measurements taken.
 
-## Getting Started
-
-1. **Data**: To perform analysis yourself, download the ZIP file containing the PCAP files and extract it into the root of this repository. The Python scripts expect the `Wired`, `WLAN`, `BT`, and `1AP_2CL` folders to be present.
-2. **Analysis**: Navigate to the `Code/` directory and run the relevant `run_*_analysis.py` scripts to process the PCAP files.
-3. **Plotting**: Use the `generate_*.py` scripts to recreate the visual plots and save them as SVGs or PDFs.
