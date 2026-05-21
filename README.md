@@ -30,6 +30,12 @@ The raw `.pcap` capture files from the measurements have been compressed into a 
 - **`BT/`**: Bluetooth measurements.
 - **`1AP_2CL/`**: Measurements involving 1 Access Point and 2 Clients.
 
+Due to file size limits, the raw `.pcap` captures for the are hosted in the Releases section. 
+
+👉 [Download the Thesis_PCAP_Data.zip here](https://github.com/EliasNeels/PROFINET-over-wireless-Bridging-the-handover-gap-for-seamless-handover-and-redundancy/releases)
+
+*Note: Extracting this zip file will automatically place all `.pcap` files into their correct folder structures alongside the Python analysis scripts.*
+
 Within each connection type (e.g., `WLAN`, `BT`), the data is further organized by the experiment phase:
 - `P1_Baseline/`: Baseline measurements (often categorized by cycle times like `16ms`, `32ms`, `64ms`, `128ms`).
 - `P2_Load/`: Measurements taken under network load.
